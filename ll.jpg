@@ -1,0 +1,727 @@
+
+
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" >
+<meta name="viewport" content="width=1000, maximum-scale=10.0, minimum-scale=0.25, user-scalable=yes" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	
+    David Bierk - Related Artist Discovery - David Bierk
+
+</title><meta id="baseMetaDesc" name="Description" content="askART, an artist directory with millions of worldwide artists&#39; paintings and art - Auction records and results, artwork prices, valuations, signatures, images and artist biographies." /><meta id="baseMetaRobots" name="ROBOTS" content="ALL, INDEX, FOLLOW" /><link rel="stylesheet" href="/CSS/style.css?t=125" type="text/css" /><link rel="stylesheet" href="/CSS/jquery-ui.css" type="text/css" /><link href="/CSS/sm-core-css.css" rel="stylesheet" type="text/css" /><link href="/CSS/sm-blue.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#Container {
+    padding-top:15px;
+    padding-left:0px;
+    padding-bottom: 0px;
+    width: 1000px;
+    text-align: left;
+    margin: 0, auto;
+    position: relative;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index:1;
+}
+</style>
+<script src="/Scripts/jquery-1.11.0.min.js"></script>
+<script src="/Scripts/jquery-ui-1.10.4.custom.min.js"></script>
+<script src="/Scripts/search.js"></script>
+
+<style type="text/css">
+    #LeftColumn{
+        position: relative;
+        float: left;
+        text-align: left;
+        vertical-align: top;
+        margin-bottom: 30px;
+        margin-right: 30px;
+        width: 570px;
+        left: 0px;
+        z-index: 200;
+    }
+    #BottomContent {
+        left: 0px;
+        padding-bottom: 10px;
+        width: 960px;
+        position: relative;
+        background-color: white;
+        display: block;
+        text-align: left;
+        vertical-align: top;
+        margin-bottom: 5px;
+        float:left;
+        margin-top:-15px;
+    }
+
+</style>
+<meta name="keywords" content="David Bierk similar related art artwork" /></head>
+<body bgcolor=white>
+<form method="post" action="./David_Bierk.aspx" id="frmPage">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="dtdNjGtrlJJUIGE9n51jcn2FV0sSnXWw6AkwArU0OrzJoM3ldrf/VwA5l7HnZpOq64d+Quclzh8yRyi9aNdN5J+o0zKejurAmWriJP43JGW+65aj56K9+M4ztDjjLXdX861Rt65rbiRXOdMFNTvq6hVkbpZwXUIVLqECAzXVC6LVldSjPXUB18e5AWtYtYs4v3BCZFKH5b1SCZ74eWv1OdVogJtd4C29VKgJZqmc9maQoAU8dowd1cD6Mm9NwJ3OJjmIVdg3Erv5Qs5BTAMnBBrQjLCrGNY+EVzt5r/nUkeMqtmDSnZSsDL7mQUnuGsEwmytUTEpxCdFSgaA57sYKQh95zaS0pEvWFUfy1bnNJHpj53/UxzVOA+8N+qt25QjwP7ypUBl6b5o6f8aMExa7ghOKvPAC6DSP9Y+HfhxCML1GVXL2eE/8Sun+agOakBBVhWRPavoYF0vg7saRIUA6md9Gk24iBYkDYR2/q+xijfZ6CP9eCrLcFa5PcWdv4R/6B0usw==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['frmPage'];
+if (!theForm) {
+    theForm = document.frmPage;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="13D212FB" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vjkk5MhJ06xmL63tV5oSdr1J4SbeUQXpv26hkkMfkQh7Hl+jZGVNwRBBcm0TQ89QQzXU5dahps6Ju8zxgBtREo40v/0hetV7y/SJi7sjuhZFVg2pAfZJGxePhAnjWRUKWZrHIwt6HpQlScLouxEo0prMPVI=" />
+</div>
+    <div id="headwrap">
+
+<!--[if lt IE 9]>
+    <p class="browsehappy">Sorry, your browser appears older than IE9 (or equivalent).&nbsp;&nbsp;For a better browsing experience, please upgrade your browser -- or switch your Compatibility View settings (under Tools) in Internet Explorer if you have a newer browser.<br><br></p>
+<![endif]--> 
+<div id="Header" class="ui-helper-clearfix">
+<div id="HeaderContent" >
+<div id="nav">
+
+<ul id="main-menu" class="sm sm-blue">
+<li id="menu-item-1"><a title="Go to home page" href="/"><span class="logo-menu">askART</span></a></li>
+<li id="menu-item-2"><a href="/Price_Artwork.aspx">What's my art worth?</a></li>
+
+
+<li id="menu-item-3"><a href="#">Auction Records</a>
+    <ul class="sub-menu">
+	    <li id="menu-item-31"><a href="/Search_Artist_Auction_Records.aspx">Find auction records</a></li>
+	    <li id="menu-item-32" class="MenuBreakLine"><a href="/Search_Upcoming_Auctions.aspx">Upcoming at auction</a></li>
+	    <li id="menu-item-33"><a href="/auction_records/Camille_Pissarro/9001016/Camille_Pissarro.aspx">Sample auction records</a></li>
+	    <li id="menu-item-34"><a href="/Artist_Charts_Sales_Per_Year/Georgia_Totto_OKeeffe/30083/Georgia_Totto_OKeeffe.aspx">See artists' sales statistics</a>
+	    <li id="menu-item-36" class="MenuBreakLine"><a href="/artist_signatures/Andrew_Newell_Wyeth/24079/Andrew_Newell_Wyeth.aspx">See artists' signatures</a></li>
+	    <li id="menu-item-37"><a href="/search_auction_houses">Directory of Auction Houses</a></li>
+        <li id="menu-item-59a"><a href="/search_galleries">Directory of Art Dealers/Galleries</a></li>
+    </ul>
+</li>
+
+<li id="menu-item-4"><a href="#">Research Art</a>
+    <ul class="sub-menu">
+        <li id="menu-item-40b1" class="MenuBreakLine"><a href="#">Interesting Statistics</a>
+            <ul class="sub-menu">
+	            <li id="menu-item-40b1a"><a href="/top/Top_Auction_Prices">Highest auction prices</a></li>
+	            <li id="menu-item-40b3"><a href="/top/Top_Auction_Prices_By_Sq_Inch">Record prices by sq inch</a></li>
+                <li id="menu-item-40b2c"><a href="/top/Top_Book_References">Most book references</a></li>
+                <li id="menu-item-40b2d"><a href="/top/Top_Unique_Name">Most unusual names</a></li>
+            </ul>
+        </li>
+        <li id="menu-item-40b2"><a href="/art/Regional_Interests/8/y/Alaska">Research by Regional Interests</a></li>
+	    <li id="menu-item-40a"><a href="/art/Groups/1612/y/Barbizon%20School">Research by Artist Groups</a></li>
+        <li id="menu-item-41c"><a href="/art/Subjects/28/y/Black%20American%20Artists">Research by Topics</a></li>
+        <li id="menu-item-41a"><a href="/art/Styles/84/y/Abstract%20Expressionists">Research by Art Styles</a></li>
+        <li id="menu-item-41b" class="MenuBreakLine"><a href="/art/Mediums/1604/n/Acrylic%20Paint">Research by Mediums</a></li>
+	    <li id="menu-item-46" class="MenuBreakLine"><a href="/art/glossary/a">Glossary of art terms</a></li>
+	    <li id="menu-item-47"><a href="/search_museums">Directory of Art Museums</a></li>
+	    <li id="menu-item-5912"><a href="/search_auction_houses">Directory of Auction Houses</a></li>
+        <li id="menu-item-59b"><a href="/search_galleries">Directory of Art Dealers/Galleries</a></li>
+    </ul>
+</li>
+<li id="menu-item-5"><a href="#">Buy / Sell</a>
+    <ul class="sub-menu">
+	    <li id="menu-item-51"><a href="/Price_Artwork.aspx">What's my art worth?</a></li>
+	    <li id="menu-item-57" class="MenuBreakLine"><a href="/Info_Alerts.aspx">Artist ALERTS (free)</a></li>
+        <li id="menu-item-5"><a href="#">View Art for Sale</a>
+            <ul class="sub-menu">
+	            <li id="menu-item-53"><a href="/Search_Art_for_Sale.aspx?by=galleries">By Galleries</a></li>
+	            <li id="menu-item-54"><a href="/Search_Art_for_Sale.aspx?by=artists">By Active artists</a></li>
+                <li id="menu-item-55"><a href="/Search_Art_for_Sale.aspx?by=private">By Private parties</a></li>
+                <li id="menu-item-55" class="MenuBreakLine"><a href="/Search_Art_for_Sale.aspx?by=all">Search ALL</a></li>
+                <li id="menu-item-32" ><a href="/Search_Upcoming_Auctions.aspx">
+                    Upcoming at auction&nbsp;&nbsp;&nbsp;&nbsp;<img width="16" class="nogrow"  src="/images/hammer2.png" /></a></li>
+            </ul>
+        </li>
+	    <li id="menu-item-56" class="MenuBreakLine" ><a href="/Search_Upcoming_Auctions.aspx">View Art Upcoming at Auction</a></li>
+        <li id="menu-item-52" class="MenuBreakLine"><a href="/artist/art_wanted_artist/A1.aspx">Buyers for your artwork</a></li>
+        <li id="menu-item-58" class="MenuBreakLine"><a href="#">Place an ad</a>
+            <ul class="sub-menu">
+	            <li id="menu-item-53"><a href="/Ads_Individual.aspx">Individual/classified ads</a></li>
+	            <li id="menu-item-54"><a href="#">Dealer & Auction House ads</a>
+                    <ul class="sub-menu">
+	                    <li id="menu-item-53"><a href="/Ads_Homepage.aspx">Homepage</a></li>
+	                    <li id="menu-item-54"><a href="/Ads_ArtForSale.aspx">Artist Pages:&nbsp;&nbsp;Art for Sale</a>
+                            <li id="menu-item-54"><a href="/Ads_ArtWanted.aspx">Artist Pages:&nbsp;&nbsp;Art Wanted</a>
+                        <li id="menu-item-55"><a href="/Ads_SearchAds.aspx">Alpha Pages</a></li>
+                    </ul>
+	            </li>
+                <li id="menu-item-55"><a href="/Info_Artist_Studio.aspx">Artist!&nbsp;&nbsp;Create a studio</a></li>
+            </ul>
+        </li>
+	    <li id="menu-item-591"><a href="/search_auction_houses">Directory of Auction Houses</a></li>
+        <li id="menu-item-59c"><a href="/search_galleries">Directory of Art Dealers/Galleries</a></li>
+    </ul>
+</li>
+<li id="menu-item-6"><a href="#">Our Services</a>
+    <ul class="sub-menu">
+	    <li id="menu-item-61"><a href="/Info_Individual.aspx">Individual Subscriber services</a></li>  
+	    <li id="menu-item-62f"><a href="/Info_Gallery.aspx">Dealer/Gallery Plans</a></li>
+        <li id="menu-item-62g"><a href="/Info_Auction_House.aspx">Auction House Plans</a></li>
+        <li id="menu-item-61a2"><a href="/Info_Artist_Studio.aspx">Artists: see Studio Plans</a></li>
+        <li id="menu-item-62h" class="MenuBreakLine"><a href="/Info_Institution.aspx">Institutional services</a></li>
+	    <li id="menu-item-63"><a href="/ads_homepage.aspx">Ads by Dealer/Auction on Home Page</a></li>
+        <li id="menu-item-63b"><a href="/Ads_ArtistPage.aspx">Ads by Dealer/Auction on other pages</a></li>
+        <li id="menu-item-63b" class="MenuBreakLine"><a href="/Ads_Individual.aspx">Ads by Private Parties</a></li>
+	    <li id="menu-item-64"><a href="/Info_Alerts.aspx">Alerts - Receive free artist notices</a>
+	    <li id="menu-item-66" class="MenuBreakLine"><a href="/Help_Submit.aspx">Biographies - Share your information</a></li>
+        <li id="menu-item-9912"><a  href="/help_overview.aspx">Contact Us</a></li>
+        <li id="menu-item-9922"><a  href="#">Take a quick tour</a>
+            <ul class="sub-menu">
+                    <li id="menu-item-99221"><a href="/artist/Cy_Edwin_Parker_Jr_Twombly/30112/Cy_Edwin_Parker_Jr_Twombly.aspx ">Cy Twombly<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Minimalism</span></a></li>
+                    <li id="menu-item-99222"><a href="/artist/Georgia_Totto_OKeeffe/30083/Georgia_Totto_OKeeffe.aspx">Georgia O'Keeffe<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Mod botanic, landscapes</span></a></li>
+                    <li id="menu-item-99223"><a href="/artist/Andrew_Newell_Wyeth/24079/Andrew_Newell_Wyeth.aspx">Andrew Wyeth<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Figures, portraits, landscapes</span></a></li>
+                    <li id="menu-item-99224"><a href="/artist/Ed_Joseph_Edward_Ruscha/30133/Ed_Joseph_Edward_Ruscha.aspx">Ed Ruscha<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Pop word illusions</span></a></li>
+                    <li id="menu-item-99225"><a href="/artist/Camille_Pissarro/9001016/Camille_Pissarro.aspx">Camille Pissarro<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Impressionist</span></a></li>
+            </ul>
+        </li>
+        <li id="menu-item-68"><a href="/help_overview.aspx">Need help?</a></li>
+    </ul>
+</li>
+             
+
+
+<li id="menu-item-7" style="float:right;"><a href="#">Subscribe<!--<br /><u><span style="font-size:12px;">More info</span></u>--></a>
+    <ul class="sub-menu">
+                    <li id="menu-item-91"><a href="/Info_Individual.aspx">Individual</a></li>
+                    <li id="menu-item-92"><a href="/Info_Gallery.aspx">Dealer/Gallery</a></li>
+                    <li id="menu-item-61a"><a href="/Info_Artist_Studio.aspx" >Artist</a></li>
+                    <li id="menu-item-93"><a href="/Info_Auction_House.aspx">Auction House</a></li>
+                    <li id="menu-item-94"><a href="/Info_Institution.aspx">Museum</a></li>
+                    <li id="menu-item-95" class="MenuBreakLine"><a  href="/Info_Institution.aspx">Library / School</a></li>
+                    <li id="menu-item-96" class="MenuBreakLine"><a  href="/Info_Alerts.aspx">Alert emails (free)</a></li>
+                    <li id="menu-item-991"><a  href="/help_overview.aspx">Contact Us</a></li>
+                    <li id="menu-item-992"><a  href="/artist/Frederic_Remington/5814/Frederic_Remington.aspx">Take a quick tour</a>
+                        <ul class="sub-menu">
+                                <li id="menu-item-99221"><a href="/artist/Cy_Edwin_Parker_Jr_Twombly/30112/Cy_Edwin_Parker_Jr_Twombly.aspx ">Cy Twombly<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Minimalism</span></a></li>
+                                <li id="menu-item-99222"><a href="/artist/Georgia_Totto_OKeeffe/30083/Georgia_Totto_OKeeffe.aspx">Georgia O'Keeffe<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Mod botanic, landscapes</span></a></li>
+                                <li id="menu-item-99223"><a href="/artist/Andrew_Newell_Wyeth/24079/Andrew_Newell_Wyeth.aspx">Andrew Wyeth<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Figures, portraits, landscapes</span></a></li>
+                                <li id="menu-item-99224"><a href="/artist/Ed_Joseph_Edward_Ruscha/30133/Ed_Joseph_Edward_Ruscha.aspx">Ed Ruscha<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Pop word illusions</span></a></li>
+                                <li id="menu-item-99225"><a href="/artist/Camille_Pissarro/9001016/Camille_Pissarro.aspx">Camille Pissarro<span style="font-size:9px;color:rgb(160,160,160);">&nbsp;&nbsp;&nbsp;&nbsp;Impressionist</span></a></li>
+                        </ul>
+                    </li>
+                    <li id="menu-item-993"><a href="/help_overview.aspx">Need help?</a></li>
+    </ul>
+</li>
+
+<li id="menu-item-8a" style="float:right;"><a  href="/Security/SignIn.aspx?URL=http://www.askart.com/artist_related/David_Bierk/113110/David_Bierk.aspx"><span aria-hidden="true" class="icon-twitter" data-icon="o">
+    <img class="nogrow" src="/images/SignIcon.png" width="12" /></span>
+    Sign In</a></li>
+ 
+
+</div>
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+   
+ 
+
+
+<div id="Searchbar" class="ui-helper-clearfix">
+    <div id="SearchbarContent" >
+        <div class="ui-widget" id="SearchTextbox" >
+            <input name="ctl00$SearchBar$txtSearch" type="text" id="SearchBar_txtSearch" value="Enter artist name or use alphabet" title="Search artist" onfocus="inputFocus(this)" onblur="inputBlur(this)" style="height:18px;width:340px;color:#888; font-size: 13px;border:1px solid rgb(200,200,200);" />
+        </div>
+        <input type="image" name="ctl00$SearchBar$searchButton" id="SearchBar_searchButton" tabindex="2" class="SearchButton" src="/images/searchicon2.png" style="height:26px;width:26px;left:360px;" />
+        <div id="alphabar">
+            <a href="/artist/artist/A1.aspx" class="abar">a</a><a href="/artist/artist/B1.aspx" class="abar">b</a><a href="/artist/artist/C1.aspx" class="abar">c</a><a href="/artist/artist/D1.aspx" class="abar">d</a><a href="/artist/artist/E1.aspx" class="abar">e</a><a href="/artist/artist/F1.aspx" class="abar">f</a><a href="/artist/artist/G1.aspx" class="abar">g</a><a href="/artist/artist/H1.aspx" class="abar">h</a><a href="/artist/artist/I1.aspx" class="abar">i</a><a href="/artist/artist/J1.aspx" class="abar">j</a><a href="/artist/artist/K1.aspx" class="abar">k</a><a href="/artist/artist/L1.aspx" class="abar">l</a><a href="/artist/artist/M1.aspx" class="abar">m</a><a href="/artist/artist/N1.aspx" class="abar">n</a><a href="/artist/artist/O1.aspx" class="abar">o</a><a href="/artist/artist/P1.aspx" class="abar">p</a><a href="/artist/artist/Q1.aspx" class="abar">q</a><a href="/artist/artist/R1.aspx" class="abar">r</a><a href="/artist/artist/S1.aspx" class="abar">s</a><a href="/artist/artist/T1.aspx" class="abar">t</a><a href="/artist/artist/U1.aspx" class="abar">u</a><a href="/artist/artist/V1.aspx" class="abar">v</a><a href="/artist/artist/W1.aspx" class="abar">w</a><a href="/artist/artist/X1.aspx" class="abar">x</a><a href="/artist/artist/Y1.aspx" class="abar">y</a><a href="/artist/artist/Z1.aspx" class="abar">z</a>
+        </div>
+    </div>
+</div> 
+    </div>
+<div id="Container" class="ui-helper-clearfix">
+    <div style="margin-left:20px;">
+    
+    
+<script>
+    $(document).ready(function () {
+        //var isMobile = window.matchMedia("only screen and (max-width: 760px)");
+        //if (!isMobile.matches) {
+            $(".signUpFadeIn").each(function (i) {
+                $(this).hide;
+                $(this).delay(40000).fadeIn();
+            });
+        //}
+    });
+</script>
+<div id="divSignUpFadeIn" class="signUpFadeIn" style="text-align:center;"">
+    <div style="font-size:24px;font-weight:600;">Find, Learn, Price Art</div>
+    <div style="font-size:16px;font-weight:500;margin-bottom:20px;">Enjoy the comprehensive art database we've compiled since 1987</div>
+    <div style="font-size:11px;display:block;text-align:center;width:100%;">
+        <table style="width:660px;margin: 0 auto;">
+            <tr>
+                <td><a href="/Info_Individual.aspx" class="white" style="font-size:14px;text-decoration:underline;">Membership Details</a>
+                    <br>Images, sales charts, bios, signatures, 30 artist Alerts and more ...
+                    <br>Art auction records:&nbsp;&nbsp;Millions of references for pricing research
+            </td>  
+            <td>Or, register for <a href="/Info_Alerts.aspx" class="white" style="font-size:14px;text-decoration:underline;">Free Alerts</a>
+        <br>To track 10 artists.
+                <br /><br />
+                Already a member?&nbsp;&nbsp;<a href="/Security/SignIn.aspx" class="white" style="font-size:14px;text-decoration:underline;">Sign in here</a>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="signUpFadeInClose" style="z-index:10001;display:block;position:absolute;top:5px;right:70px;height:10px;width:10px;text-align:center;color:white;
+    text-shadow: 2px 2px 2px rgba(36,33,45,0.5);font-weight:600;"><a href="#" class="whitebold">x</a></div>
+    <script>
+    $('#signUpFadeInClose').click(function closer() {
+        $('#divSignUpFadeIn').fadeOut();
+    });
+    $("#signUpFadeInClose").mouseenter(function() {
+        $(this).show();
+    });
+    </script>
+</div>
+
+<div id="LeftColumn" class="ui-helper-clearfix">
+<table cellspacing="0" id="MainPageContent_ArtistTOCmain_fvArtistTOCmain" style="border-collapse:collapse;">
+	<tr>
+		<td colspan="2">
+<div style="margin-left:-20px;">
+<h1 class="ArtistNameBig" style="margin-left:20px;">David Bierk</h1>
+    <span class="ArtistActive">&nbsp;(1944 - 2002)</span>
+    <br>
+    <div class="ContentText" style="line-height:16px;margin-left:25px;margin-bottom:5px;margin-top:5px;">
+    David Bierk was active/lived in California, Ontario / Canada.&nbsp;&nbsp;David Bierk is known for Old Master style painting-portraits.   
+    </div>
+        <nav>
+    <div style="display:table;width:565px;border-spacing:2px;" class="MenuOutline">
+        <div style="display:table-row;">
+            <div style="display:table-cell;width:110px;" class="TOCbubble MenuHeaderTOC">The Artist</div>
+            <div style="display:table-cell;width:190px;" class="TOCbubble MenuHeaderTOC">Auction Records</div>
+            <div style="display:table-cell;width:110px;" class="TOCbubble MenuHeaderTOC">Buy / Sell</div>
+            <div style="display:table-cell;width:155px;" class="TOCbubble MenuHeaderTOC">Resources</div>
+        </div>
+        <div style="display:table-row;height:1px;"><div style="display:table-cell;column-span:all;"></div></div>
+        <div style="display:table-row;">
+            <a style="display:table-cell;width:90px;text-decoration:none;" href="/artist/David_Bierk/113110/David_Bierk.aspx" class="noUnderlineTOCitem">
+            <div class="MenuItem highlightTD
+                ">
+                <div style="width:100%;height:100%;display:inline-block;color:#3A5775;">Overview&nbsp;&nbsp;<img style="width:14px;" class="nogrow" src="/images/homeicon.gif"/></div>
+            </div></a>
+            <a style="display:table-cell;text-decoration:none;" href='/auction_records/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:190px;" class="MenuItem  highlightTD ">
+                <span class="noUnderlineTOCitem">Auction Records<span class="MenuItemCount"> (166)</span></span>
+            </div></a><a style="display:table-cell;text-decoration:none;" href='/art_for_sale/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:110px;" class="MenuItem  highlightTD ">
+                
+                <span class="noUnderlineTD">For Sale<span class="MenuItemCount"> (2)</span></span>
+                
+            </div></a><a style="display:table-cell;text-decoration:none;" href='/artist_signatures/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:155px;" class="MenuItem 
+                 highlightTD ">
+                
+                <span class="noUnderlineTD">Signatures<span class="MenuItemCount"> (5)</span></span>
+                
+            </div></a>
+        </div>
+       <div style="display:table-row;">
+            <a style="display:table-cell;text-decoration:none;" href='/artist_bio/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:90px;" class="MenuItem  highlightTD ">
+                <span class="noUnderlineTOCitem">Biography</span>
+            </div></a>
+            
+            <div style="display:table-cell;width:190px;" class="MenuItem ">
+                <span style="color:#A7A7A7;">Upcoming Auctions</span><span class="MenuItemCountGreyedOut"> (0)</span>
+            </div></a>
+            <div style="display:table-cell;width:110px;" class="MenuItem 
+                ">
+                
+                       <span style="color:#A7A7A7;">Wanted</span><span class="MenuItemCountGreyedOut"> (0)</span>
+                
+            </div><a style="display:table-cell;text-decoration:none;" href='/artist_artwork/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:155px;" class="MenuItem 
+                 highlightTD ">
+                
+                <span class="noUnderlineTD">Selected works</span><span style="color:#3A5775;font-size:8px;" class="MenuItemCount"> (166)</span></span>
+                
+            </div></a>
+        </div>
+        <div style="display:table-row;">
+            <a style="display:table-cell;text-decoration:none;" href='/artist_keywords/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:90px;" class="MenuItem  highlightTD ">
+                <span class="noUnderlineTOCitem">Quick Facts</span>
+            </div></a>
+            
+           
+            <a style="display:table-cell;text-decoration:none;" href='/art_prices/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:190px;" class="MenuItem highlightTD">
+                <span class="noUnderlineTOCitem">What's my art worth?</span>
+            </div></a>
+              <a style="display:table-cell;text-decoration:none;" href='/galleries/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:110px;" class="MenuItem 
+                 highlightTD ">
+                
+                <span class="noUnderlineTD">Dealers<span class="MenuItemCount"> (1)</span></span>
+                
+            </div></a><a style="display:table-cell;text-decoration:none;" href='/artist_pubs/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:155px;" class="MenuItem 
+                 highlightTD ">
+                
+                <span class="noUnderlineTD">Publications</span>
+                
+            </div></a>
+        </div>
+        <div style="display:table-row;">
+            <a style="display:table-cell;text-decoration:none;" onclick="window.location.href='/MyArtists.aspx?addalert=113110&artistname=David Bierk'" class="noUnderlineTOCitem">
+            <div class="MenuItem highlightTD">
+                <div style="width:100%;height:100%;width:90px;display:inline-block;color:#3A5775;">Get Alerts&nbsp;&nbsp;<img style="width:13px;" class="nogrow" src="/images/email25.png"/></div>
+            </div></a>
+            <a style="display:table-cell;text-decoration:none;" href="/Artist_Charts_Sales_Per_Year/David_Bierk/113110/David_Bierk.aspx">
+            <div style="display:table-cell;width:190px;" class="MenuItem  highlightTD ">
+                <span class="noUnderlineTOCitem">Charts / Record Price</span>
+            </div></a>
+            <a style="display:table-cell;text-decoration:none;" href="/Ads_Individual.aspx">
+            <div style="display:table-cell;width:110px;" class="MenuItem highlightTD">
+                <span class="noUnderlineTD">Place an Ad</span>
+            </div></a>
+
+            
+                  <a style="display:table-cell;text-decoration:none;" href='/artist_related/David_Bierk/113110/David_Bierk.aspx'>
+            <div style="display:table-cell;width:155px;" class="MenuItem 
+                 highlightTD MenuItemHighlight">
+                <span class="noUnderlineTD">Related Artists</span>
+            </div></a>
+        </div>
+    </div>
+        
+    </nav>
+</div>
+    </td>
+	</tr>
+</table>
+    <br />
+    
+    
+    <div style="text-align:left;" class="ui-helper-clearfix"></div>
+    <h2 style="display: inline;text-align:left;">
+        <span class="ContentTextBigger">Sample Images for</span>&nbsp;<span class="ArtistNameMedium">David Bierk   
+       </span>
+    </h2>
+    
+</div>
+<div id="RightColumn" class="ui-helper-clearfix" style="width:359px;float:right;padding-top:30px;">
+
+
+<div id="MessageToUser" class="ui-helper-clearfix">
+    <div id="MessageToUserContent" >
+
+        <table>
+	    <tr><td style='padding:0px 0px 10px 10px; '>
+
+
+	        <span class="txtBigBlue" style="text-align:left; line-height:40px;">Discover art and art prices ...<br></span>
+            <table>
+                <tr style="vertical-align:top;">
+                    <td >
+                        <div class="SubscribeButton MenuHeader"><a href="/Info_Individual.aspx" style="text-decoration:none; color:white;">Subscribe</a></div>
+                        <div style="margin-top:10px;display:block;text-align:center;"><a class="blue ContentText" href="/Security/SignIn.aspx?URL=http://www.askart.com/artist_related/David_Bierk/113110/David_Bierk.aspx">Sign in</a></div>
+                    </td>
+                    <td class="ContentText" style="text-align:left; padding-left:14px;">
+                        •&nbsp;&nbsp;Auction records and images<br>
+                        •&nbsp;&nbsp;Record prices, graphs, stats<br>
+                        •&nbsp;&nbsp;Artist signature examples<br>
+                        •&nbsp;&nbsp;<a class="ContentText blue" href="/Info_Individual.aspx">More about subscribing</a>
+                    </td>
+                </tr>
+            </table><br />
+   
+
+	    </td></tr>
+	    </table>
+
+    </div>
+</div>
+
+</div>  <!-- right column -->
+<div id="BottomContent" class="ui-helper-clearfix" >
+            
+    <table style="width:900px;text-align:center;"><tr>
+    
+            <td><a href='javascript:changeLocation("/artist_artwork_detail/David_Bierk/113110/David_Bierk.aspx?lot=551125&source=AUCTION_RECORD");'>
+                <img class="round4px shadow img150maxheight300maxwidth img150maxheight300maxwidth grow25x" src="/photos2/2014/RIC20080526_5801/142.jpg"/></a>
+                    <br />
+                <div class="ArtistNameNormal" style="line-height:18px;font-weight:700;"><span class="truncate300">David Bierk</span></div>
+           </td>       
+    
+            <td><a href='javascript:changeLocation("/artist_artwork_detail/David_Bierk/113110/David_Bierk.aspx?lot=433058&source=AUCTION_RECORD");'>
+                <img class="round4px shadow img150maxheight300maxwidth img150maxheight300maxwidth grow25x" src="/photos2/2014/RIC20071119_5553/55.jpg"/></a>
+                    <br />
+                <div class="ArtistNameNormal" style="line-height:18px;font-weight:700;"><span class="truncate300">David Bierk</span></div>
+           </td>       
+    
+            <td><a href='javascript:changeLocation("/artist_artwork_detail/David_Bierk/113110/David_Bierk.aspx?lot=806535&source=AUCTION_RECORD");'>
+                <img class="round4px shadow img150maxheight300maxwidth img150maxheight300maxwidth grow25x" src="/photos2/2014/DUM20090116_37870/2006.jpg"/></a>
+                    <br />
+                <div class="ArtistNameNormal" style="line-height:18px;font-weight:700;"><span class="truncate300">David Bierk</span></div>
+           </td>       
+    
+        </tr>
+    </table> 
+    <br /><br />          
+     
+<div style="margin-top:-25px;margin-bottom:5px;">
+    <h2 style="display: block;text-align:left;">
+        <span class="ContentTextBigger">Artists also viewed by people viewing </span>&nbsp;<span class="ArtistNameMedium">David Bierk   
+        </span>
+    </h2>
+</div>
+<table >
+    
+    <tr><td><table style="width:960px;text-align:center;"><tr>
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Laura_Adeline_Muntz_Lyall/85730/Laura_Adeline_Muntz_Lyall.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/HEF20100526_64660/117.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Laura Adeline Muntz-Lyall</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/John_Goodwin_Lyman/87702/John_Goodwin_Lyman.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/HEF20140528_80668/135.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>John Goodwin Lyman</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Peter_Maxwell_Ewart/11029652/Peter_Maxwell_Ewart.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/HEF20130103_75228/39.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Peter Maxwell Ewart</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/David_Lloyd_Blackwood/10004860/David_Lloyd_Blackwood.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/assets/artist/10004860/blackwood - fire down on the labrador - 1980 etching and aquatint - ago 2.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>David Lloyd Blackwood</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/William_Hodd_McElcheran/10034303/William_Hodd_McElcheran.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/HFT20131128_78245/045.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>William Hodd McElcheran</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Jacques_Godefroy_De_Tonnancour/89268/Jacques_Godefroy_De_Tonnancour.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/SOC20110526_68138/84.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Jacques Godefroy De Tonnancour</b></span>
+                </td>       
+    
+                </tr></table></td></tr><tr><td><table style="width:960px;text-align:center;"><tr>
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Antoine_Bittar/11016817/Antoine_Bittar.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/HEF20110106_65695/104.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Antoine Bittar</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/John_A_Hammond/83102/John_A_Hammond.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/JOW20070529_4645/174.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>John Hammond</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Marcel_Christian_Barbeau/115740/Marcel_Christian_Barbeau.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/Others/115740.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Marcel Christian Barbeau</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Normand_Hudon/11041285/Normand_Hudon.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/WAO20090612_38863/277.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Normand Hudon</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/George_Franklin_Arbuckle/108080/George_Franklin_Arbuckle.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/RIC20070528_4608/44.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>George Arbuckle</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/John_Arthur_Fraser/84980/John_Arthur_Fraser.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/JOW20090526_37601/180.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>John Arthur Fraser</b></span>
+                </td>       
+    
+                </tr></table></td></tr><tr><td><table style="width:960px;text-align:center;"><tr>
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Frederick_Nicholas_Loveroff/83921/Frederick_Nicholas_Loveroff.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/JOW20091124_39348/0055.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Frederick Nicholas Loveroff</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Hal_Ross_Perrigard/85455/Hal_Ross_Perrigard.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/Others/85455.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Hal Ross Perrigard</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Adam_Sherriff_Scott/24359/Adam_Sherriff_Scott.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/JOW20130603_76008/136.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Adam Sherriff Scott</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Robert_Douglas_Genn/11034069/Robert_Douglas_Genn.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/MBC20141105_85951/31_1.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Robert Douglas Genn</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Otto_Reinhold_Jacobi/88160/Otto_Reinhold_Jacobi.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/SOC20110526_68138/85.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Otto Reinhold Jacobi</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Leonard_Brooks/105867/Leonard_Brooks.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/Others/105867.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Leonard Brooks</b></span>
+                </td>       
+    
+                </tr></table></td></tr><tr><td><table style="width:960px;text-align:center;"><tr>
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Sarah_Margaret_Armour_Robertson/82638/Sarah_Margaret_Armour_Robertson.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/RIC20071119_5553/30.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Sarah Margaret Armour Robertson</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Kathleen_Moir_Morris/80400/Kathleen_Moir_Morris.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/RIC20080526_5801/197.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Kathleen Morris</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Mary_Augusta_Hiester_Reid/83365/Mary_Augusta_Hiester_Reid.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/SOC20111128_68971/167.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Mary Augusta Hiester Reid</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Andre_Charles_Bieler/88512/Andre_Charles_Bieler.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/RIC20071119_5553/232.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Andre Charles Bieler</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/George_Thomson/20540/George_Thomson.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/HOL512004/85A.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>George Thomson</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Ron_Albert_Ronald_Martin/67175/Ron_Albert_Ronald_Martin.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/BCA20100531_63496/269.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Ron Albert (Ronald) Martin</b></span>
+                </td>       
+    
+                </tr></table></td></tr><tr><td><table style="width:960px;text-align:center;"><tr>
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Franklin_Peleg_Franklin_Brownell/25243/Franklin_Peleg_Franklin_Brownell.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/BCA20091130_39579/203.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Franklin (Peleg Franklin) Brownell</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Frances_Anne_Arbuckle_Johnston/11043057/Frances_Anne_Arbuckle_Johnston.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/JOW20070529_4645/442.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Frances-Anne (Arbuckle) Johnston</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Dennis_Eugene_Norman_Burton/68309/Dennis_Eugene_Norman_Burton.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/SOC20111128_68971/3.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Dennis Eugene Norman Burton</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Marcel_Dzama/126454/Marcel_Dzama.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/PPL20080403_6778/42.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Marcel Dzama</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Marmaduke_Matthews/11052861/Marmaduke_Matthews.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/JOW20071120_4995/64.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Marmaduke Matthews</b></span>
+                </td>       
+    
+                <td style="line-height:14px;text-align:center;vertical-align:top;padding-left:10px;padding-top:10px;" colspan=1 rowspan=1>
+            
+                    <a href="/artist_related/Franklin_H_Carmichael/81247/Franklin_H_Carmichael.aspx"><img class="round4px shadow img150height150maxwidth grow25x"  style="z-index:1001;border:0px lightgray solid;margin-bottom:4px;" src="/photos2/2014/JOW20091124_39348/0050.jpg"/></a>
+                    <br /><span class="ArtistNameNormal"><b>Franklin H Carmichael</b></span>
+                </td>       
+    
+                </tr>
+            </table>           
+        </td>
+    </tr>
+    
+</table>
+    <br />
+</div>
+
+    </div>
+</div>
+
+
+<div id="Footer" class="ui-helper-clearfix">
+    <div id="FooterContent">
+        <div class="ContentText" style="color:rgb(150,150,150);display:inline-block;float:left;">
+            <a href="#" class="abar" style="font-size:12px;color:rgb(90,90,90);font-weight:600;margin-left:40px;">^ Top</a>
+            <br />&nbsp;
+        </div>
+        <div style="color:rgb(150,150,150);margin-right:60px;">
+            <a href="/index.aspx" class="abar" style="font-size:12px;color:rgb(90,90,90);font-weight:600;">Home</a>
+            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/Help_Overview.aspx" class="abar" style="font-size:12px;color:rgb(90,90,90);">Help</a>
+            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/SiteTerms.aspx" class="abar" style="font-size:12px;color:rgb(90,90,90);">Site Terms</a>
+            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/Info_Individual.aspx" class="abar" style="font-size:12px;color:rgb(90,90,90);">askART Services & Subscriptions</a>
+            <div class="ContentText" style="color:rgb(150,150,150);">Copyright&copy; 2000-2019 askART All Rights Reserved&reg; - askART is a registered trademark.</div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="/Scripts/jquery.smartmenus.min.js"></script>  <!-- SmartMenus jQuery plugin -->
+<script type="text/javascript">  
+    $(function () {
+        $('#main-menu').smartmenus({
+            subMenusSubOffsetX: 1,
+            subMenusSubOffsetY: -8
+            , hideOnClick: false
+        });
+    });
+</script>
+
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-17903966-1']); _gaq.push(['_trackPageview']); (function () { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
+
+
+
+</form>
+</body>
+</html>

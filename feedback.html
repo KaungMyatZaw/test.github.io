@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form Feedback</title>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet">
+    <link rel="stylesheet" href="feedback.css">
+    <style>
+    span{
+      color: red;
+      font-size: 20px;
+    }
+    #msg{
+    visibility: hidden;
+    min-width: 250px;
+    background-color: yellow;
+    color: #000; 
+    text-align:center;
+    border-radius: 2px;
+    padding: 16px;
+    position:fixed;
+    z-index: 1;
+    right: 30%;
+    top:30px;
+    font-size: 17px;
+    margin-right: 30px;
+  }
+    #msg.show{
+      visibility: visible;
+      -webkit-animation:fadein 0s, fadeout 0.5s 2.5s;
+      animation:fadein 0s, fadeout 0.5s 2.5s;
+    }
+
+    @-webkit-keyframes fadein{
+      from{top:0; opacity: 0;}
+        to{top:30px; opacity: 1;}
+    }
+
+    @keyframes fadein{
+      from{top:0; opacity: 0;}
+        to{top:30px; opacity: 1;}
+    }
+    
+    @-webkit-keyframes fadeout{
+      from{top:30px; opacity: 1;}
+        to{top:0; opacity: 0;}
+    }
+
+    @keyframes fadein{
+      from{top:30px; opacity: 1;}
+        to{top:0; opacity: 0;}
+    }
+    @keyframes fadeout{
+      from{top:30px; opacity: 1;}
+      to{top:0;opacity: 0;}
+    }
+  </style>
+</head>
+<body>
+
+
+  <div class="wrapper">
+    <div class="form">
+      <h1 class="title">Feedback Form</h1>
+
+      <form action="https://docs.google.com/forms/d/e/1FAIpQLSdJmhNFIVzG38CpIypQxjqsoM3o2-FQONJnudupV_ZjeQZx_Q/formResponse" method="post" target="_self" class="myform">
+        <div class="control-from">
+          <label for="firstname">First Name <span>*</span></label>
+          <input type="text" id="firstname" name="entry.792639105">
+        </div>
+
+        <div class="control-from">
+          <label for="lastname">Last Name <span>*</span></label>
+          <input type="text" id="lastname" name="entry.1123761468" required>
+        </div>
+
+        <div class="control-from">
+          <label for="emailaddress">Email Address <span>*</span></label>
+          <input type="email" id="emailaddress" name="entry.833646263" required>
+        </div>
+
+        <div class="control-from">
+          <label for="phonenumber">Phone Number <span>*</span></label>
+          <input type="phone" id="phonenumber" name="entry.1333738829" value="(+95 9) minlength="11" required>
+        </div>
+
+        <div class="full-width">
+          <label>Weekness</label>
+          <input type="text" name="entry.921862516" id="weekness" required>
+        </div>
+
+         <div class="control-from">
+          <label>Which cathegories do you like the most? <span>*</span></label>
+          <select name="entry.376045804" required>
+            <option value="Modern">Modern</option>
+            <option value="Abstract">Abstract</option>
+            <option value="Contemporary">Contemporary</option>
+             <option value="Postmodernism">Postmodernism</option>
+            <option value="Surrealism">Surrealism</option>
+            <option value="Expressionism">Expressionism</option>
+          </select>
+        </div>
+
+        <div class="control-from">
+          <label name="entry.401290223">Suggestions <span>*</span></label>
+          <textarea name="" id="suggest" cols="55" rows="4" maxlength="255" required></textarea>        </div>
+
+       
+<div id="msg">Thank You for your Feedback.</div>
+
+        <div class="button">
+          <input type="submit" id="register" value="Submit" onclick="myfunction()" class="btn">
+        </div>
+
+      </form>
+    </div>
+  </div>
+
+
+
+
+  <script src="feedback.js"></script>
+</body>
+</html>

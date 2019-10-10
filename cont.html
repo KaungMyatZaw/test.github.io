@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		*{
+            padding:0;
+            margin:0;
+           }
+         body
+         {
+             background:#eee;
+         }
+         .bg-image
+         {
+             width:100%;
+             height:600px;
+             background:url('h.jpg') no-repeat  ;
+
+         }
+         .bw-gradient{
+         	width: 100%;
+         	height: 600px;
+         	position: absolute;
+
+         	background: -moz-linear-gradient(top,rgba(0,0,0,1) 0%,rgba(0,0,0,1) 5%,rgba(0,0,0,0) 100%);
+         	background: -webkit-linear-gradient(top,rgba(0,0,0,1) 0%,rgba(0,0,0,1) 5%,rgba(0,0,0,0) 100%);
+         	background: linear-gradient(to bottom,rgba(0,0,0,1) 0%,rgba(0,0,0,1) 5%,rgba(0,0,0,0) 100%);
+         	filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000',startColorstr='#000000',GradientType=0);
+
+         }
+         .container
+    {
+    	width: 960px;
+    	height: 600px;
+    	
+    	position: relative;
+    	margin: 0 auto;
+    }
+    nav>ul
+    {
+    	position: absolute;
+    	right: 0;
+    }
+    nav>ul>li
+    {
+    	list-style:none;
+    	float: left;
+    	height: 40px; 
+    	line-height: 40px;
+    }
+     nav>ul>li>a
+    {
+    	text-decoration: none;
+    	font-family: Comic Sans MS;
+    	color: #fff;
+    	font-size: 14px;
+    	font-weight: bold;
+    	padding: 0 20px 0 20px;
+     }     
+     .logo
+     {
+     	color:#fff;
+     	font-family: Boston;
+     	font-size: 30px;
+     	position: absolute;
+     	padding: 20px;
+
+     }
+     .header
+         {
+         	width: 960px;
+         	padding: 20px;
+         }
+    .divTable
+    {
+        display:  table;
+        width:100%;
+        border-spacing: 60px;
+     }
+      .divRow
+    {
+       display:table-row;
+       width:100px;
+      
+    }
+     .divCell
+    {
+       
+            float: left;
+            display: table-column;
+            width: 600px;
+            }
+     span
+     {
+     	color: red;
+     }
+     h2{
+        font-family: Comic Sans MS ;
+    }
+
+    .d{
+        display:block;
+        
+       
+        width:300px;
+        height:230px;
+        margin-left:250px;
+        
+        
+    }
+    .g{
+        display:block;
+        width:300px;
+        height:230px;
+        margin-left: 80px;
+       }
+     
+    .e{
+        
+        font-family:Comic Sans MS;
+        
+    }
+     footer
+     {
+     	text-align: center;
+     	background-color: #333;
+     	color: #fff;
+     	padding: 20px;
+     }
+
+	</style>
+</head>
+<body>
+		 <div class="bg-image">
+    		<div class="bw-gradient">
+    			
+    		</div>
+    		<div class="container">
+    			<div class="logo">Betelgeuse</div>
+    			<div class="header">
+    				<nav>
+    					<ul>
+    					    <li><a href="index.html">Home</a></li>
+                  
+                  <li><a href="about us.html">Contact Us</a></li>
+                      <li><a href="feedback.html">Feedback</a></li>
+                       <li><a href="index.html">Log Out</a></li>
+                  <li> <select id="selectbox" name="" onchange="javascript:location.href=this.value;">
+<option value="modernpho.html" selected>Modern</option>
+
+<option value="postmod.html" selected>Postmodernism</option>
+<option value="exp.html" selected>Expressionism</option>
+<option value="sur.html" selected>Surrealism</option>
+<option value="ab.html" selected>Abstract</option>
+<option value="cont.html" selected>Contemporary</option>
+</select></li>
+              </ul>
+    				</nav>
+
+    			</div>		
+    		</div>
+   			 
+   		</div><br>
+   		<h2 align="center">Contemporary<span> Paintings</span> </h2>
+   		<div class="divTable">
+   			
+   				<div class="divRow">
+   					<div class="divCell">
+   						<div class="d">
+                        <div class="e">
+   						<img src="e.jpg" width="300" height="200" id="1"><br>
+   						<h3 align="center"><span>Lunch</span></h3>
+   					</div>
+   					</div>
+   					</div>
+   					<div class="divCell">
+   						<div class="g">
+                        <div class="e">
+   						<img src="w.jpg" width="300" height="200" id="2"><br>
+   						<h3 align="center"><span>Workers</span></h3>
+   					</div>
+   					</div>
+   					</div>
+   					
+   					</div>
+   					<div class="divRow">
+   					<div class="divCell">
+   						<div class="d">
+                        <div class="e">
+   						<img src="or.jpg" width="300" height="200" id="3"><br>
+   						<h3 align="center"><span>Birds</span></h3>
+   					</div>
+   					</div>
+   					</div>
+   					<div class="divCell">
+   						<div class="g">
+                        <div class="e">
+   						<img src="bbbb.jpg" width="300" height="200" id="4"><br>
+   						<h3 align="center"><span>Antiques</span></h3>
+   					</div>
+   					</div>
+   					</div>
+   					
+   					</div>
+   					<div class="divRow">
+   					<div class="divCell">
+   						<div class="d">
+                        <div class="e">
+   						<img src="kk.jpg" width="300" height="200" id="5"><br>
+   						<h3 align="center"><span>Sand & Lace</span></h3>
+   					</div>
+   					</div>
+   					</div>
+   					<div class="divCell">
+   						<div class="g">
+                        <div class="e">
+   						<img src="vv.jpg" width="300" height="200" id="6"><br>
+   						<h3 align="center"><span>Veins</span></h3>
+   					</div>
+   					</div>
+   					</div>
+   					
+   					</div>
+   					
+   					</div>
+   					 <footer>
+         	<p>Copyright &copy; 2019 All Rights Reserved</p>
+         </footer>
+         <script type="text/javascript">
+
+window.onload=function()
+{
+location.href=document.getElementByID("selectbox").value;
+}
+var b1=document.getElementById("1");  
+              var b2=document.getElementById("2");  
+              var b3=document.getElementById("3");  
+              var b4=document.getElementById("4");  
+              var b5=document.getElementById("5");  
+              var b6=document.getElementById("6");
+              b1.onclick=function()
+              {
+                var aa = true;
+                
+                var  x = window.confirm("Price $ 300. Do you want to buy this picture?");
+                if (x) {
+                while(aa)
+                {
+                if(x){
+                  var pattern = /\d{4}-\d{4}-\d{4}/;
+                  var z = prompt("Enter your card number");
+                    if (pattern.test(z)) {
+                      alert("your order will be deserved");
+                      break;
+                    }
+                    else
+                     aa = true;
+                }
+                
+                else 
+                  alert("See you next time");      
+                }
+              }
+              else
+                alert("See you next time");
+
+              } 
+               
+              b2.onclick=function()
+              {
+                var aa = true;
+                
+                var  x = window.confirm("Price $ 500. Do you want to buy this picture?");
+                if (x) {
+                while(aa)
+                {
+                if(x){
+                  var pattern = /\d{4}-\d{4}-\d{4}/;
+                  var z = prompt("Enter your card number");
+                    if (pattern.test(z)) {
+                      alert("your order will be deserved");
+                      break;
+                    }
+                    else
+                     aa = true;
+                }
+                
+                else 
+                  alert("See you next time");      
+                }
+              }
+              else
+                alert("See you next time");
+
+              } 
+              b3.onclick=function()
+              {
+                var aa = true;
+                
+                var  x = window.confirm("Price $ 300. Do you want to buy this picture?");
+                if (x) {
+                while(aa)
+                {
+                if(x){
+                  var pattern = /\d{4}-\d{4}-\d{4}/;
+                  var z = prompt("Enter your card number");
+                    if (pattern.test(z)) {
+                      alert("your order will be deserved");
+                      break;
+                    }
+                    else
+                     aa = true;
+                }
+                
+                else 
+                  alert("See you next time");      
+                }
+              }
+              else
+                alert("See you next time");
+
+              } 
+              b4.onclick=function()
+              {
+                var aa = true;
+                
+                var  x = window.confirm("Price $ 200. Do you want to buy this picture?");
+                if (x) {
+                while(aa)
+                {
+                if(x){
+                  var pattern = /\d{4}-\d{4}-\d{4}/;
+                  var z = prompt("Enter your card number");
+                    if (pattern.test(z)) {
+                      alert("your order will be deserved");
+                      break;
+                    }
+                    else
+                     aa = true;
+                }
+                
+                else 
+                  alert("See you next time");      
+                }
+              }
+              else
+                alert("See you next time");
+
+              } 
+              b5.onclick=function()
+              {
+                var aa = true;
+                
+                var  x = window.confirm("Price $ 500. Do you want to buy this picture?");
+                if (x) {
+                while(aa)
+                {
+                if(x){
+                  var pattern = /\d{4}-\d{4}-\d{4}/;
+                  var z = prompt("Enter your card number");
+                    if (pattern.test(z)) {
+                      alert("your order will be deserved");
+                      break;
+                    }
+                    else
+                     aa = true;
+                }
+                
+                else 
+                  alert("See you next time");      
+                }
+              }
+              else
+                alert("See you next time");
+
+              } 
+              b6.onclick=function()
+              {
+                var aa = true;
+                
+                var  x = window.confirm("Price $ 600. Do you want to buy this picture?");
+                if (x) {
+                while(aa)
+                {
+                if(x){
+                  var pattern = /\d{4}-\d{4}-\d{4}/;
+                  var z = prompt("Enter your card number");
+                    if (pattern.test(z)) {
+                      alert("your order will be deserved");
+                      break;
+                    }
+                    else
+                     aa = true;
+                }
+                
+                else 
+                  alert("See you next time");      
+                }
+              }
+              else
+                alert("See you next time");
+
+              } 
+               
+
+               </script>
+
+</body>
+</html>

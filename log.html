@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>Log in</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	 <div class="log-in">
+	 <img src="icon.PNG" class="avatar">
+	  <h1>Log in here</h1>
+	   <form name="logform">
+	    <p>User</p>
+	   <input type="text" id="user" placeholder="Enter username" required >
+	   <p>Email</p>
+	   <input type="email" id="email" placeholder="Enter email" required>
+	   <p>Password</p>
+	   <input type="password" id="password" placeholder="Enter password" required>
+	   <input type="button" id="button" value="Sign In" onclick="login()">
+	   
+	   <center><a href="signup.html">If you don't have,Create account</a></center>
+
+	   
+	    <script type="text/javascript">
+	    		           var btn=document.getElementById("button");
+         	btn.onmouseover=function(){
+         		btn.style.backgroundColor="#39dc79";
+         		btn.style.color="#000";
+         	}
+         	btn.onmouseout=function(){
+         		btn.style.backgroundColor="yellow";
+         		btn.style.color="";
+         	}
+		function login(){
+	        	
+			var name=document.logform.email.value;
+			var pwd=document.logform.password.value;
+
+
+			var valid=false;
+
+	        		var emailvalue=sessionStorage.getItem("email");
+			var pwdvalue=sessionStorage.getItem("pwd");
+			
+			
+			
+				if((name==emailvalue)&&(pwd==pwdvalue)){
+					valid=true;
+					
+				}
+			
+		if(valid){
+				alert("login was successful");
+				window.open("modernpho.html");
+				return true;
+			}
+			else{
+				alert("Still incorrect.");
+return false;
+					
+			}
+			
+	    	}
+	    </script>
+	  
+	  </form>
+	 </div>
+</body>
